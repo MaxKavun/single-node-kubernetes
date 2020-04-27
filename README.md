@@ -10,6 +10,6 @@ VirtualBox 6.1
 Command to roll out single node Kubernetes:
 `vagrant up`
 
-- [x] Add skeletone of Vagrantfile
+- [x] Add skeleton of Vagrantfile
 - [x] Add bash scripts as provisioner
 - [ ] Add ansible as provisioner
